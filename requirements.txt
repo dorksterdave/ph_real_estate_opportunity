@@ -2,3 +2,5 @@ plotly
 seaborn
 sklearn
 folium
+google.cloud
+google.oauth2
