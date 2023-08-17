@@ -35,10 +35,10 @@ gitdb==4.0.10
 GitPython==3.1.32
 google==3.0.0
 google-api-core==2.11.0
-google-api-python-client==2.73.0
+google-api-python-client==2.97.0
 google-auth==2.16.0
 google-auth-httplib2==0.1.0
-google-auth-oauthlib==0.8.0
+google-auth-oauthlib==1.0.0
 google-cloud==0.34.0
 google-cloud-bigquery==3.4.2
 google-cloud-bigquery-storage==2.18.0
@@ -110,7 +110,7 @@ plotly==5.12.0
 prometheus-client==0.15.0
 prompt-toolkit==3.0.36
 proto-plus==1.22.2
-protobuf
+protobuf==3.20.3
 psmpy==0.3.13
 psutil==5.9.4
 ptyprocess==0.7.0
