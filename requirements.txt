@@ -1,6 +1,6 @@
 plotly
 seaborn
-sklearn
+scikit-learn
 folium
 google.cloud
 google.oauth2
