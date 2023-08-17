@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 # import plotly as pt
 import plotly.express as px
-import seaborn as ss
+# import seaborn as ss
 from sklearn.preprocessing import MinMaxScaler
 from model_scoring import get_data_and_weights, calculate_scores
 from folium.plugins import HeatMap
