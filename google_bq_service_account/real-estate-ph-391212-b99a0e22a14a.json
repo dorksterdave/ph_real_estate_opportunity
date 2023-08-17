@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "real-estate-ph-391212",
+  "private_key_id": "b99a0e22a14aea0c8bb8d66b64c208195ccad0b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUXoUDJeQkEuvi\nvjRA9XPfMNiXY0KCfz9SLWizUw/idGi/Gkb5t/wHbWuWF6oVYeI/kDzysbLQwl9C\nkcTx+jiJiYJce/tvYIyTX68kIuwRHuE2VmNDT/dGTIwtDfV52GZ6nHxyFCsR3eMk\nW+wkn5ANkq+7YPufkIKS85FUQbn/kWJIYG8vot4jL7+7jN0eUSy1nHKjqKavxFle\nwH1iO77y1BvYnOHk1lpSpKxO75PAbzQpms24xNUfJvfgBwQvKq0s3Y1nmVxJmtII\neHi5XFfsYsFC2W4feM+hRj/lgvc12+OO1CLXZIGHUqrS+caXUyxzqrV+lhy65JSu\nD6HcFiCzAgMBAAECggEALMY3asNJDW/eWq9esonAHYcuncT5IcuHzuNgONmkrgjG\nQYGLELoqpw0ozgM3Mzu2XMtI8U6Z8XDu8XZvEj0aSbtDKWjK8IoY8jKKdqPJTMNe\nYJkCXKJps3/PP5t6THp3NqI51e1rL/mfne3Vnhm/DbGKMchrNvSTywgQ//XTzSFb\ndvN/VHUoWfsGp7BplQSGXIaj0ziKB8dXcZ+lvSHQPa7+4HUa9g3fr0IsBwKnPIBT\nWUnwavlvxV3p2eD6a5lB6FxlUq8Hq8w0O0YYwwL3GhHj+B7wPgtzB46jTr2GCoX0\n1g2t2g44H8WmGErEM6TWRsrpp96Uhe+jeeLkpJ600QKBgQDHwcrqluiddd6GC2li\nnADbyL8OANpSyUXwi+ngz7C1X+oK1QJf3hwKpNWrNjYcW2bzQyVbZy5ez4eK3C8j\nF0u779ELBNrutPN+6oTOh6GHuEBL3mPWXZxKgcSwjoraeC40KcC5NxW5cfDhCCVP\nhWecchYJBG8qKxKdDMb/TSXl8QKBgQC+JMRH72NHJAjny4b4F7fvNdfUQP8SVBKp\nJI15Kr6Wqd4RDAsTlFtRj4Iw3TL7Qno4jmxClryKTJJyWBq+fjDfDp1jn46C4DPx\nA8MIo4YkhuK9v85t496Jzwfz6OOcnt8sAAjlln7J3rJO4h/dL7d9ZcInNWJSslpJ\nx1+GrUL84wKBgDecXuZiLs4vU0zT/nnCXobRY0b9u8oSWJM4EFtS1qoX0qtDU87m\nob3g1887X2MTmxycE9lXZ1RjyCNDWygUwzPF9tdveZe87pDlryVkIvcKt3OnrPmv\nw+QGLoDMniFmFc7V1N57VGP1MY8kWmbCB+9I35ORFXWS2jK4rOnES4mxAoGAPDVI\nMb8LoKs4Zq17v3NDOuvBu+QY4KTeg9CfO47dare/KYa2uyxu/hSDFRX13rneGap/\nfVZdvS0h8jMTxN4Qe5EVJUaQycBUsiyOxV2CTG6pvYvOwd01yk1UJ1fHOwDTigs4\nxfoxi5qIu5G+pTtGzt457FBrIeR30oTfKrYSUCECgYBigXcM1r74+OTkr7yvRX6O\nbX1eKNzNb6RMH8ssdV1G0xpKT9IRfr9w28J16pvDbtebS9fwtvykMTGSATX3ArYw\nkoPzMSUqKF9G3K+ZxaMKOCl8+FfIeRnecnltAOi10ZYdq+RiuenLyzhndyW3cmoR\nZm6ARK1B/y0APabGdCNgIA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bolengas-real-estate-ph@real-estate-ph-391212.iam.gserviceaccount.com",
+  "client_id": "106999149771357436025",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bolengas-real-estate-ph%40real-estate-ph-391212.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
